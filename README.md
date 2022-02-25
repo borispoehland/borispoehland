@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 <a href="https://borispoehland.com" target="_blank">
 <img src="https://user-images.githubusercontent.com/60541010/155738862-0a20c1ac-3bdc-493a-833c-e88c4365993d.png" width="250">
 </a><br />
