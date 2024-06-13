@@ -1,4 +1,4 @@
-Hey there!
+# Hey there!
 
 I'm Boris, Web Developer working with React.js and Next.js to build custom, scalable apps
 
