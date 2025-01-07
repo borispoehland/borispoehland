@@ -3,7 +3,7 @@
 I'm Boris, Web Developer working with React.js and Next.js to build custom, scalable apps
 
 Have a look at my projects:
-- [XOXNO / Digital Marketplace and DeFi Platform](https://xoxno.com)
+- [XOXNO / Digital Marketplace](https://xoxno.com)
 - [WEB3DEV / My Web Development Company](https://xweb3.dev)
 - [Boris Pöhland / Portfolio Website](https://boris.app)
 
