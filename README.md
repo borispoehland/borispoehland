@@ -7,5 +7,5 @@ Have a look at my projects:
 - [Boris Pöhland / Portfolio Website](https://borispoehland.com)
 
 And get in touch via:
-- [LinkedIn](www.linkedin.com/in/borispoehland)
+- [LinkedIn](https://linkedin.com/in/borispoehland)
 - [Email](mailto:me@boris.app)
