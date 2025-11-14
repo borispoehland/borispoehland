@@ -3,7 +3,8 @@
 I'm Boris, Web Developer working with React.js and Next.js to build custom and scalable web apps
 
 Download my CV:
-- [CV including Appendix](https://borispoehland.com/cv)
+- [CV](https://borispoehland.com/cv)
+- [Work Showcase](https://borispoehland.com/showcase)
 
 Have a look at my projects:
 - [XOXNO / DeFi & Digital Marketplace](https://xoxno.com)
@@ -14,7 +15,5 @@ Have a look at my projects:
 - [Boris Pöhland / Personal Website](https://borispoehland.com)
 
 And get in touch via:
-- [Email](mailto:boris.poehland@gmail.com)
+- [Email](mailto:me@borispoehland.com)
 - [LinkedIn](https://linkedin.com/in/borispoehland)
-- [Facebook](https://facebook.com/borispoehland.me)
-- [Instagram](https://instagram.com/borispoehland)
