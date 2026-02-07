@@ -1,1 +1,1 @@
-Web developer with a passion for scalable and clean code. Check out my [Website](https://borispoehland.com) for more info!
+Web developer with a passion for scalable and clean code. Check out my [website](https://borispoehland.com) for more info!
